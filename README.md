@@ -74,10 +74,10 @@ print(f"Energía mínima estimada: {result.eigenvalue.real}")
 ## 🖼️ Imágenes Referenciales
 
 ### 🧪 Simulación de Plegamiento Proteico Cuántico
-![Simulación Cuántica](https://qiskit.org/images/qiskit-coding.png)
+![Simulación Cuántica](https://img.chemie.de/Portal/News/67fcbd4013277_DLVkvRsRC.jpg?tr=w-1000,h-750,cm-extract,x-0,y-45:n-zoom)
 
 ### 📊 Interfaz Clínica (Mockup ejemplo con Three.js)
-![Interfaz 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Protein_folding_example.png/512px-Protein_folding_example.png)
+![Interfaz 3D](https://i.ibb.co/xK9f2Pnk/Copilot-20250626-224009.png)
 
 ---
 
