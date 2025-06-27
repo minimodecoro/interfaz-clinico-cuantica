@@ -1,9 +1,7 @@
 
 # 🧠🧬 Quantum Clinic Interface: Simulación Cuántica de Proteínas para Alzheimer
 
-> Aplicando computación cuántica con Qiskit y el modelo de Ising para acelerar la investigación biomédica de enfermedades neurodegenerativas 🧪⚛️
-
-![Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qiskit_logo.svg/320px-Qiskit_logo.svg.png)
+![Banner](https://github.com/Jesus-Medina/images-for-repo-clinic-computing/blob/main/Copilot_20250626_224629.png?raw=true)
 
 ## 📌 Resumen del Proyecto
 
@@ -77,7 +75,7 @@ print(f"Energía mínima estimada: {result.eigenvalue.real}")
 ![Simulación Cuántica](https://img.chemie.de/Portal/News/67fcbd4013277_DLVkvRsRC.jpg?tr=w-1000,h-750,cm-extract,x-0,y-45:n-zoom)
 
 ### 📊 Interfaz Clínica (Mockup ejemplo con Three.js)
-![Interfaz 3D](https://i.ibb.co/xK9f2Pnk/Copilot-20250626-224009.png)
+![Interfaz 3D](https://github.com/Jesus-Medina/images-for-repo-clinic-computing/blob/main/Copilot_20250626_224009.png?raw=true)
 
 ---
 
